@@ -3,7 +3,7 @@
     "title": "A Beleza da Natureza",
     "subtitle": "Conecte-se com a natureza",
     "description": "Descubra a magia dos ecossistemas, a serenidade das florestas e a força majestosa das montanhas. A natureza é o nosso lar.",
-    "backgroundImage": ""
+    "backgroundImage": "/uploads/b178164b-15f3-49d7-8de4-bc57f3d70760.png"
   },
   "about": {
     "title": "Maravilhas da Natureza",
@@ -16,7 +16,7 @@
       "icon": "leaf",
       "title": "Florestas",
       "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
-      "image": "/assets/nature-leaves.jpg"
+      "image": "/uploads/img_7839.jpg"
     },
     {
       "icon": "droplets",
