@@ -10,5 +10,25 @@
     "description": "A natureza nos oferece paisagens deslumbrantes, ecossistemas complexos e uma fonte inesgotável de inspiração e paz interior.",
     "quote": "Em cada caminhada com a natureza, recebemos muito mais do que procuramos.",
     "quoteAuthor": "John Muir"
-  }
+  },
+  "features": [
+    {
+      "icon": "leaf",
+      "title": "Florestas",
+      "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
+      "image": "/assets/nature-leaves.jpg"
+    },
+    {
+      "icon": "droplets",
+      "title": "Águas",
+      "description": "Rios, cachoeiras e oceanos que sustentam a vida e moldam paisagens extraordinárias.",
+      "image": "/assets/nature-waterfall.jpg"
+    },
+    {
+      "icon": "mountain",
+      "title": "Montanhas",
+      "description": "Guardiãs majestosas que tocam o céu e inspiram aventureiros há milênios.",
+      "image": "/assets/nature-mountains.jpg"
+    }
+  ]
 }
