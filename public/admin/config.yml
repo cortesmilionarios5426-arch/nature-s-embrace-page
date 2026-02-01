@@ -1,0 +1,50 @@
+# DecapCMS Configuration
+backend:
+  name: git-gateway
+  branch: main # ou master, dependendo da sua branch principal
+
+# Configuração de mídia
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+# Configuração local (descomente para desenvolvimento)
+# local_backend: true
+
+# Coleções de conteúdo
+collections:
+  - name: "pages"
+    label: "Páginas"
+    files:
+      - name: "home"
+        label: "Página Inicial"
+        file: "src/content/home.json"
+        fields:
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Título Principal", name: "title", widget: "string" }
+              - { label: "Subtítulo", name: "subtitle", widget: "string" }
+              - { label: "Descrição", name: "description", widget: "text" }
+              - { label: "Imagem de Fundo", name: "backgroundImage", widget: "image", required: false }
+          
+          - label: "Seção Sobre"
+            name: "about"
+            widget: "object"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição", name: "description", widget: "text" }
+              - { label: "Citação", name: "quote", widget: "string" }
+              - { label: "Autor da Citação", name: "quoteAuthor", widget: "string" }
+
+  - name: "features"
+    label: "Destaques da Natureza"
+    folder: "src/content/features"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Descrição", name: "description", widget: "text" }
+      - { label: "Imagem", name: "image", widget: "image" }
+      - { label: "Ícone", name: "icon", widget: "select", options: ["leaf", "droplets", "mountain", "sun", "tree", "flower"] }
+      - { label: "Ordem", name: "order", widget: "number", default: 0 }
