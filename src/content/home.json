@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "title": "A Beleza da Natureza",
+    "subtitle": "Conecte-se com a natureza",
+    "description": "Descubra a magia dos ecossistemas, a serenidade das florestas e a força majestosa das montanhas. A natureza é o nosso lar.",
+    "backgroundImage": ""
+  },
+  "about": {
+    "title": "Maravilhas da Natureza",
+    "description": "A natureza nos oferece paisagens deslumbrantes, ecossistemas complexos e uma fonte inesgotável de inspiração e paz interior.",
+    "quote": "Em cada caminhada com a natureza, recebemos muito mais do que procuramos.",
+    "quoteAuthor": "John Muir"
+  }
+}
