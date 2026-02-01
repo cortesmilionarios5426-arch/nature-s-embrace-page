@@ -29,6 +29,12 @@
       "title": "Montanhas",
       "description": "Guardiãs majestosas que tocam o céu e inspiram aventureiros há milênios.",
       "image": "/assets/nature-mountains.jpg"
+    },
+    {
+      "title": "Super Água Grande",
+      "description": "Fluxo de agua alto",
+      "image": "/uploads/b178164b-15f3-49d7-8de4-bc57f3d70760.png",
+      "icon": "leaf"
     }
   ]
 }
