@@ -1,8 +1,8 @@
 {
   "hero": {
-    "title": "A Incrível Natureza",
+    "title": "A Natureza é Bela",
     "subtitle": "Conecte-se com a natureza",
-    "description": "Descubra a magia dos ecossistemas, a serenidade das florestas e a força majestosa das montanhas. A natureza é o nosso lar.",
+    "description": "Aqui vai uma descrição",
     "backgroundImage": ""
   },
   "about": {
@@ -14,13 +14,13 @@
   "features": [
     {
       "icon": "leaf",
-      "title": "Florestas",
+      "title": "Riachos",
       "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
       "image": "https://i.ibb.co/tpkBszC3/IMG-7839.jpg"
     },
     {
       "icon": "droplets",
-      "title": "Águas",
+      "title": "Chuva",
       "description": "Rios, cachoeiras e oceanos que sustentam a vida e moldam paisagens extraordinárias.",
       "image": "https://i.ibb.co/tpkBszC3/IMG-7839.jpg"
     },
