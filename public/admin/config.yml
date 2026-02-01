@@ -36,15 +36,12 @@ collections:
               - { label: "Descrição", name: "description", widget: "text" }
               - { label: "Citação", name: "quote", widget: "string" }
               - { label: "Autor da Citação", name: "quoteAuthor", widget: "string" }
-
-  - name: "features"
-    label: "Destaques da Natureza"
-    folder: "src/content/features"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Descrição", name: "description", widget: "text" }
-      - { label: "Imagem", name: "image", widget: "image" }
-      - { label: "Ícone", name: "icon", widget: "select", options: ["leaf", "droplets", "mountain", "sun", "tree", "flower"] }
-      - { label: "Ordem", name: "order", widget: "number", default: 0 }
+          
+          - label: "Maravilhas da Natureza"
+            name: "features"
+            widget: "list"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição", name: "description", widget: "text" }
+              - { label: "Imagem", name: "image", widget: "image" }
+              - { label: "Ícone", name: "icon", widget: "select", options: ["leaf", "droplets", "mountain", "sun", "tree", "flower"] }
