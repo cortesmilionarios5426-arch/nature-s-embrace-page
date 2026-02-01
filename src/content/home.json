@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "O incrivel mundo de pica",
+    "title": "A Incrível Natureza",
     "subtitle": "Conecte-se com a natureza",
     "description": "Descubra a magia dos ecossistemas, a serenidade das florestas e a força majestosa das montanhas. A natureza é o nosso lar.",
-    "backgroundImage": "/uploads/b178164b-15f3-49d7-8de4-bc57f3d70760.png"
+    "backgroundImage": ""
   },
   "about": {
     "title": "Maravilhas da Natureza",
@@ -16,7 +16,7 @@
       "icon": "leaf",
       "title": "Florestas",
       "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
-      "image": "/uploads/img_7839.jpg"
+      "image": "https://i.ibb.co/tpkBszC3/IMG-7839.jpg"
     },
     {
       "icon": "droplets",
