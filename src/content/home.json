@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "A Natureza é Bela",
+    "title": "A Natureza é Linda",
     "subtitle": "Conecte-se com a natureza",
     "description": "Aqui vai uma descrição",
     "backgroundImage": ""
@@ -16,7 +16,7 @@
       "icon": "leaf",
       "title": "Riachos",
       "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
-      "image": "https://i.ibb.co/tpkBszC3/IMG-7839.jpg"
+      "image": "/uploads/the-magician-o-mago-tarot.jpg.jpeg"
     },
     {
       "icon": "droplets",
