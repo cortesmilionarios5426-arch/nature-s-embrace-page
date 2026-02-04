@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "A Natureza é Linda",
+    "title": "A natuzera é verde",
     "subtitle": "Conecte-se com a natureza",
     "description": "Aqui vai uma descrição",
     "backgroundImage": ""
@@ -41,6 +41,12 @@
       "description": "Funcionamento Ok",
       "icon": "sun",
       "image": "/uploads/b178164b-15f3-49d7-8de4-bc57f3d70760.png"
+    },
+    {
+      "title": "serviço 1 ",
+      "description": "descrição",
+      "image": "/uploads/img_7839.jpg",
+      "icon": "sun"
     }
   ]
 }
