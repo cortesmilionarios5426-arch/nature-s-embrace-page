@@ -1,8 +1,8 @@
 {
   "hero": {
-    "title": "A natuzera é verde",
+    "title": "O mundo é lindo",
     "subtitle": "Conecte-se com a natureza",
-    "description": "Aqui vai uma descrição",
+    "description": "Descrição por extenso",
     "backgroundImage": ""
   },
   "about": {
@@ -12,18 +12,6 @@
     "quoteAuthor": "John Muir"
   },
   "features": [
-    {
-      "icon": "leaf",
-      "title": "Riachos",
-      "description": "Os pulmões do nosso planeta, produzindo oxigênio e abrigando milhões de espécies.",
-      "image": "/uploads/the-magician-o-mago-tarot.jpg.jpeg"
-    },
-    {
-      "icon": "droplets",
-      "title": "Chuva",
-      "description": "Rios, cachoeiras e oceanos que sustentam a vida e moldam paisagens extraordinárias.",
-      "image": "https://i.ibb.co/tpkBszC3/IMG-7839.jpg"
-    },
     {
       "icon": "mountain",
       "title": "Montanhas",
@@ -43,10 +31,10 @@
       "image": "/uploads/b178164b-15f3-49d7-8de4-bc57f3d70760.png"
     },
     {
-      "title": "serviço 1 ",
-      "description": "descrição",
-      "image": "/uploads/img_7839.jpg",
-      "icon": "sun"
+      "title": "Erika Teste",
+      "description": "Apresentação do serviço",
+      "image": "/uploads/the-magician-o-mago-tarot.jpg.jpeg",
+      "icon": "mountain"
     }
   ]
 }
